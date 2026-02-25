@@ -256,17 +256,17 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Confusion Matrix
 
-<img width="687" height="686" alt="image" src="https://github.com/user-attachments/assets/7faf1db1-be34-4140-99df-54dcaae7b183" />
+<img width="901" height="795" alt="image" src="https://github.com/user-attachments/assets/fc8e9874-8b33-4435-82cf-d2a480c16331" />
 
 
 ## Classification Report
-<img width="1190" height="197" alt="image" src="https://github.com/user-attachments/assets/2daf86d3-a721-48ff-8abb-5ae91894dbd5" />
+<img width="1919" height="389" alt="image" src="https://github.com/user-attachments/assets/ab961807-51a0-49f9-a926-003f58b3518f" />
 
 
 ### New Sample Data Prediction
-<img width="455" height="507" alt="image" src="https://github.com/user-attachments/assets/384243c4-fe59-4497-8c39-475346f44d76" />
 
-<img width="427" height="491" alt="image" src="https://github.com/user-attachments/assets/204a7d53-7e51-439c-bc37-dae7c318b400" />
+<img width="443" height="984" alt="image" src="https://github.com/user-attachments/assets/8cb511d7-31ba-441d-b247-5a57fac67e6a" />
+
 
 ## RESULT
 VGG19 model was fine-tuned and tested successfully. The model achieved good accuracy with correct predictions on sample test images.
